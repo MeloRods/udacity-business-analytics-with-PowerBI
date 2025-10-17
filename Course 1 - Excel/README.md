@@ -1,4 +1,4 @@
-# Course 1 - Excel: Data Fundamentals
+# Course 1 - Business Metrics with Spradsheets
 
 This course focuses on data analysis fundamentals using Excel, including data manipulation, visualization creation, and business analysis for an e-commerce company.
 

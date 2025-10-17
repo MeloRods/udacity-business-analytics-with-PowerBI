@@ -16,12 +16,21 @@ This course focuses on data analysis fundamentals using Excel, including data ma
 - **`v1.2 - Rodrigo Melo - Spreadsheet E-commerce Company.xlsx`** - Main spreadsheet with data analysis
 - **`v1.2 - Rodrigo Melo - Presentation E-commerce Company.pdf`** - Final presentation with insights and recommendations
 
-#### Screenshots and Evidence
-- **`Screenshot 2025-10-06 225505.png`** - Screenshot of initial analysis
-- **`Screenshot 2025-10-06 225645.png`** - Visualizations and charts created
-- **`Screenshot 2025-10-06 225830.png`** - Final results and conclusions
-- **`1759801887529.jpg`** - Additional evidence of work performed
+#### Evidences
+ <img width="480" height="360" alt="Screenshot 2025-10-06 225505" src="https://github.com/user-attachments/assets/397f3e5f-2530-4c53-9f72-6010b5599d8c" />
 
+- Initial analysis
+  
+ <img width="480" height="360" alt="Screenshot 2025-10-06 225645" src="https://github.com/user-attachments/assets/268b742a-ffac-4701-8692-15744632f897" />
+ 
+- Visualizations and charts created
+
+<img width="720" height="480" alt="Screenshot 2025-10-17 111016" src="https://github.com/user-attachments/assets/51f2926d-8f8e-43b9-a8dc-888e6bb0b2b5" />
+<img width="480" height="360" alt="Screenshot 2025-10-06 225830" src="https://github.com/user-attachments/assets/f9695184-92e6-4ab5-b478-06616e4697a8" />
+
+
+- Final results and conclusions
+  
 ### 🎯 Skills Developed
 
 #### Data Analysis

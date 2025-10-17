@@ -1,0 +1,51 @@
+# Arquivos temporários do Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos temporários do Office
+~$*
+
+# Arquivos de backup
+*.bak
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Arquivos de configuração local
+*.local
+
+# Arquivos de cache
+*.cache
+
+# Arquivos de sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de dados sensíveis (se houver)
+*.pwd
+*.key
+
+# Ignorar arquivos do Cursor e sistema
+.cursor/
+AppData/
+Documents/
+Local Settings/
+My Documents/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+.bash_history

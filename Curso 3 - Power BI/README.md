@@ -18,8 +18,7 @@ This course focuses on advanced data visualization and Business Intelligence usi
 
 #### Documentation and Reports
 - **`Rodrigo Melo - Data Visualization in PowerBI.pdf`** - Final report with analyses
-- **`v1.1 - Rodrigo Melo - Data Visualization in PowerBI.pdf`** - Version 1.1 of the report
-- **`v1.2 - Rodrigo Melo - Data Visualization in PowerBI.pdf`** - Version 1.2 of the report
+- **`Rodrigo Melo - Data Visualization in PowerBI.zip`** - Compressed project version
 
 #### Detailed Screenshots
 - **`Pag 2 Products and orders.png`** - Page 2: Products and Orders Analysis
@@ -28,12 +27,6 @@ This course focuses on advanced data visualization and Business Intelligence usi
 
 #### Certifications
 - **`Certificate.png`** - Course completion certificate
-- **`Diploma.pdf`** - Official Nanodegree diploma
-
-#### Compressed Files
-- **`Rodrigo Melo - Data Visualization in PowerBI.zip`** - Compressed project version
-- **`v1.1 - Rodrigo Melo - Data Visualization in PowerBI.zip`** - Version 1.1 compressed
-- **`v1.2 - Rodrigo Melo - Data Visualization in PowerBI.zip`** - Version 1.2 compressed
 
 ### 🎯 Skills Developed
 

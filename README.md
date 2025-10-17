@@ -22,7 +22,7 @@ The repository is organized into three folders, each corresponding to one course
 - **Best Practices**: Data integrity, performance optimization, and deploying insights for business decisions.
 
 ## How to Explore
-1. Clone the repository: `git clone https://github.com/yourusername/business-analytics-powerbi-portfolio.git` or [download as ZIP](https://github.com/yourusername/business-analytics-powerbi-portfolio/archive/refs/heads/main.zip).
+1. Clone the repository: `git clone https://github.com/MeloRods/udacity-business-analytics-with-PowerBI.git` or [download as ZIP]([https://github.com/yourusername/business-analytics-powerbi-portfolio/archive/refs/heads/main.zip](https://github.com/MeloRods/udacity-business-analytics-with-PowerBI/archive/refs/heads/main.zip)).
 2. Open `.pbix` files in Power BI Desktop (free download from Microsoft); `.xlsx` in Excel; SQL scripts in a database tool like SQL Server Management Studio.
 3. Refresh data connections if needed to view live interactions.
 4. Check the `docs/` subfolder in each course for detailed walkthroughs, queries, and insights.
